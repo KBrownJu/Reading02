@@ -1,0 +1,119 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___1 {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.___1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#If_the_network_is_a_container_ {
+	position: absolute;
+	left: 710px;
+	top: 311px;
+	overflow: visible;
+	width: 501px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#ID1 {
+	position: absolute;
+	width: 367px;
+	height: 197px;
+	left: 428px;
+	top: 620px;
+	animation: ID1 2s infinite;
+  animation-direction: alternate-reverse;
+  animation-fill-mode: none;
+}
+
+@keyframes ID1 {
+	0%   { opacity: 1; }
+	100% { opacity: 0; }
+}
+
+
+#ID2 {
+	position: absolute;
+	width: 505px;
+	height: 391px;
+	left: 1028px;
+	top: 84px;
+	animation: ID2 5s infinite;
+  animation-direction: alternate-reverse;
+  animation-fill-mode: none;
+}
+
+@keyframes ID2 {
+	0%   { opacity: 1; }
+	100% { opacity: 0; }
+}
+
+#ID3 {
+	position: absolute;
+	width: 1581px;
+	height: 741px;
+	left: 664px;
+	top: 565px;
+	animation: ID3 10s infinite;
+  animation-direction: alternate-reverse;
+  animation-fill-mode: none;
+}
+
+@keyframes ID3 {
+	0%   { opacity: 1; }
+	100% { opacity: 0; }
+}
+
+#ID4 {
+	position: absolute;
+	width: 858px;
+	height: 712px;
+	left: -247px;
+	top: -216px;
+	animation: ID4 1s infinite;
+  animation-direction: alternate-reverse;
+  animation-fill-mode: none;
+}
+
+@keyframes ID4 {
+	0%   { opacity: 1; }
+	100% { opacity: 0; }
+}
